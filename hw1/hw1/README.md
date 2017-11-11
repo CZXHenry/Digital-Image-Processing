@@ -1,1 +1,1 @@
-# 灰度图像的放大与缩小
+# Gray Image Scaling
