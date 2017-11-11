@@ -1,1 +1,1 @@
-# Gray Image Scaling
+# 灰度图像的放缩
