@@ -6,4 +6,4 @@ visual studio 2015、OpenCV 3.3
 - 灰度图任意比例的缩放(双线性插值)
 - 灰度图量化
 ## 详细报告
-[Report]()
+[Report](https://github.com/CZXHenry/Digital-Image-Processing/blob/master/hw1/hw1/report.pdf)
